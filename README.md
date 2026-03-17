@@ -1,4 +1,4 @@
-# Explosion (Minecraft Datapack)
+# Explosion (Minecraft Data Pack)
 If You Look at an Entity, it Explodes
 
 ## How to Use
