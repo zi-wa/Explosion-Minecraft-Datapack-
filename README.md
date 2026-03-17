@@ -1,5 +1,5 @@
-# Explosion (Minecraft Data Pack)
-If You Look at an Entity, it Explodes
+# Explosive Gaze (Minecraft Data Pack)
+If You Look at an Entity, it Explodes!
 
 ## How to Use
 1. Download and unzip the file.
