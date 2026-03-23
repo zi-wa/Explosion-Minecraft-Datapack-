@@ -2,7 +2,7 @@
 If You Look at an Entity, it Explodes!
 
 ## How to Use
-1. Download and unzip the file.
+1. Download the file.
 2. Move the folder to `.minecraft\saves\{world name}\datapacks`.
 3. Use `/reload` command in-game to apply the changes.
 
