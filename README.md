@@ -1,6 +1,6 @@
 # Explosive Gaze (Minecraft Data Pack)
-If You Look at an Entity, it Explodes!
-Designed for `Java Edition 1.21.11`
+**If You Look at an Entity, it Explodes!**
+* Designed for `Java Edition 1.21.11`
 
 ## How to Use
 1. Download the file.
