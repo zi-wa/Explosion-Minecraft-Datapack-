@@ -12,5 +12,6 @@ This data pack is licensed under the **Creative Commons Attribution 4.0 Internat
 
 ### Requirements for Content Creators
 If you feature this data pack in your video (YouTube, Twitch, etc.), you **must** provide credit as follows:
-**Creator:** zi-wa
+
+**Creator:** zi-wa  
 **Original Link:** https://github.com/zi-wa/Explosion-Minecraft-Datapack-
